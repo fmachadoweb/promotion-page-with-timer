@@ -9,7 +9,7 @@
     <img src="https://github.com/othneildrew/Best-README-Template/raw/master/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">PROMOTION PAGE OF A PROJECT I'M DEVELOPING, MADE WITH HTML, CSS AND JAVASCRIPT V 3.0</h3>
+  <h3 align="center">PAGE FOR PROMOTION OF A PROJECT THAT I'M DEVELOPING, MADE WITH HTML, CSS AND JAVASCRIPT V 3.0</h3>
 
   <p align="center">
     <br />
