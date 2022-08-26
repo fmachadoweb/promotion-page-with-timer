@@ -9,7 +9,7 @@
     <img src="https://github.com/othneildrew/Best-README-Template/raw/master/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">PROMOTION PAGE OF A PROJECT I'M DEVELOPING, MADE WITH HTML, CSS AND JAVASCRIPT V 2.0</h3>
+  <h3 align="center">PROMOTION PAGE OF A PROJECT I'M DEVELOPING, MADE WITH HTML, CSS AND JAVASCRIPT V 3.0</h3>
 
   <p align="center">
     <br />
@@ -54,6 +54,7 @@ Utility:
 
 * V 1.0 - Added background image.
 * V 2.0 - Added a javascript typewriter effect for the logo.
+* V 3.0 - Made improvement of colors and shadows
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
