@@ -13,7 +13,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/fmachadoweb/digitalclockwebsnow"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/fmachadoweb/promotion-page-with-timer/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://hardtek.com.br/timer/">Demo</a>
@@ -55,6 +55,8 @@ Utility:
 * V 1.0 - Added background image.
 * V 2.0 - Added a javascript typewriter effect for the logo.
 * V 3.0 - Made improvement of colors and shadows
+* V 4.0 - Added new fonts and styles.
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
